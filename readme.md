@@ -92,7 +92,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ameenahssan102/ameenahssan102/output/snake.svg" alt="Snake animation" />
-
 ###
