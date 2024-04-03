@@ -63,17 +63,18 @@
 
 ### 💼 Skills
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
-- DevOps: Docker, Kubernetes, Jenkins
-<!-- Add more skills as needed -->
+- Frontend: HTML, CSS, JavaScript, React, Vue.js
+- Backend: Node.js, Express, MongoDB, MySQL
+- DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+- Mobile Development: Flutter
+- Design: Figma, Canva
 
 ### 🌱 Currently Learning
 
-- Learning new frontend frameworks
-- Exploring cloud technologies
-<!-- Add more learning topics as needed -->
+- Deepening knowledge in React and Vue.js
+- Advancing skills in cloud technologies such as AWS and Azure
+- Exploring advanced topics in DevOps like CI/CD pipelines and infrastructure as code
 
 ### 📫 Let's Connect!
 
-Feel free to reach out via email or connect with me on LinkedIn or Instagram. I'm always open to interesting conversations and opportunities!
+Feel free to reach out via email or connect with me on LinkedIn or Instagram. I'm always open to interesting conversations and opportunities! You can find the links above.
