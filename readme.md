@@ -15,19 +15,11 @@
 
 <p align="center">🚀 Welcome to my GitHub profile! I'm passionate about building innovative software solutions and exploring new technologies.</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213844373-c3099fa2-af23-43d1-b5dd-4ae1dc9c61f9.jpg" alt="Ameen Ahssan" width="400" height="400"/>
-
 ### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <!-- Add more icons for other technologies -->
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameenahssan102&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ### 📚 Top Languages
@@ -58,5 +50,3 @@
 ### 📫 Let's Connect!
 
 Feel free to reach out via email or connect with me on LinkedIn or Instagram. I'm always open to interesting conversations and opportunities!
-
-<!-- Add any additional sections or customizations as needed -->
