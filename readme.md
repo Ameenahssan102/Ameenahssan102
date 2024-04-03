@@ -51,7 +51,7 @@
 
 ### 📚 Top Languages
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenahssan102&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
