@@ -59,13 +59,12 @@
 
 - [Project 1](link-to-project1): Description of project 1.
 - [Project 2](link-to-project2): Description of project 2.
-<!-- Add more projects as needed -->
 
 ### 💼 Skills
 
 - Frontend: HTML, CSS, JavaScript, React, Vue.js
 - Backend: Node.js, Express, MongoDB, MySQL
-- DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+- DevOps: Heroku, AWS, Google Cloud , Digital Ocean
 - Mobile Development: Flutter
 - Design: Figma, Canva
 
