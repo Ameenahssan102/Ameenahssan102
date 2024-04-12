@@ -1,7 +1,7 @@
-<h2 align="center">👋 Hi, I'm Ameen Ahssan</h2>
-<h3 align="center">Passionate Software Engineer | Coventry, UK</h3>
+<h2 align="left">👋 Hi, I'm Ameen Ahssan</h2>
+<h3 align="left">Passionate Software Engineer | Coventry, UK</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ameen-ahssan-3b88a61a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<p align="center">🚀 Welcome to my GitHub profile! I'm passionate about building innovative software solutions and exploring new technologies.</p>
+<p align="left">🚀 Welcome to my GitHub profile! I'm passionate about building innovative software solutions and exploring new technologies.</p>
 
 ### 🛠️ Technologies & Tools
 
