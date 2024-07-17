@@ -62,11 +62,11 @@
 
 ### 💼 Skills
 
-- Frontend: HTML, CSS, JavaScript, React, Vue.js
-- Backend: Node.js, Express, MongoDB, MySQL
-- DevOps: Heroku, AWS, Google Cloud , Digital Ocean
-- Mobile Development: Flutter
-- Design: Figma, Canva
+- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
+- **Backend:** Node.js, Express, MongoDB, MySQL
+- **DevOps:** Heroku, AWS, Google Cloud, Digital Ocean
+- **Mobile Development:** Flutter
+- **Design:** Figma, Canva
 
 ### 🌱 Currently Learning
 
